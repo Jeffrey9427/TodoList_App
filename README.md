@@ -45,9 +45,9 @@ The app also includes two pages:
 
 ## Screenshot of The App
 
-![Screen Shot 2024-03-04 at 11.27.50](/Users/jeff2709/Library/Application Support/typora-user-images/Screen Shot 2024-03-04 at 11.27.50.png)
+![image1](/assets/image-landing.png)
 
-![Screen Shot 2024-03-04 at 11.28.29](/Users/jeff2709/Library/Application Support/typora-user-images/Screen Shot 2024-03-04 at 11.28.29.png)
+![image2](/assets/image-edit.png)
 
-![Screen Shot 2024-03-04 at 11.29.01](/Users/jeff2709/Library/Application Support/typora-user-images/Screen Shot 2024-03-04 at 11.29.01.png)
+![image3](/assets/image-completed.png)
 
